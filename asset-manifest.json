@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ar-react/static/css/main.f5aeccb1.chunk.css",
-    "main.js": "/ar-react/static/js/main.d8c4cb32.chunk.js",
-    "main.js.map": "/ar-react/static/js/main.d8c4cb32.chunk.js.map",
+    "main.js": "/ar-react/static/js/main.1db3e8ae.chunk.js",
+    "main.js.map": "/ar-react/static/js/main.1db3e8ae.chunk.js.map",
     "runtime-main.js": "/ar-react/static/js/runtime-main.70c88a15.js",
     "runtime-main.js.map": "/ar-react/static/js/runtime-main.70c88a15.js.map",
     "static/js/2.daabf714.chunk.js": "/ar-react/static/js/2.daabf714.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.70c88a15.js",
     "static/js/2.daabf714.chunk.js",
     "static/css/main.f5aeccb1.chunk.css",
-    "static/js/main.d8c4cb32.chunk.js"
+    "static/js/main.1db3e8ae.chunk.js"
   ]
 }
